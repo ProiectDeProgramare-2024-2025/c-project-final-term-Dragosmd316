@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1746703585 source:c:\users\user\desktop\progaming__project_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+

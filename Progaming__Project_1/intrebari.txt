@@ -1,0 +1,350 @@
+3
+What is the maximum legal speed on highways in Romania for cars with a single trailer?
+A. 130 km/h
+B. 110 km/h
+C. 120 km/h
+D. 140 km/h
+A
+2
+What should you do when you see a traffic light flashing yellow?
+A. Stop
+B. Proceed without slowing down
+C. Slow down and be prepared to stop
+D. Accelerate to pass faster
+C
+1
+What is the speed limit on national roads in Romania for cars?
+A. 50 km/h
+B. 90 km/h
+C. 70 km/h
+D. 80 km/h
+B
+2
+What does the traffic sign with a red triangle and an exclamation point in the center mean?
+A. Attention, workers on the road
+B. Road closed
+C. Slippery road hazard
+D. Fire hazard
+A
+2
+What is the minimum safe following distance you should maintain from the vehicle in front in normal conditions?
+A. 1 meter
+B. 3 meters
+C. 5 meters
+D. 2 seconds
+D
+2
+What should you do when you encounter a traffic light flashing yellow?
+A. Stop
+B. Slow down and be alert
+C. Accelerate to pass quickly
+D. Ignore the traffic light
+B
+1
+What is the minimum age to drive a car in Romania?
+A. 18 years
+B. 16 years
+C. 21 years
+D. 19 years
+A
+3
+What does the traffic sign with a red circle and a horizontal white line mean?
+A. No heavy vehicles
+B. Mandatory stop
+C. No entry
+D. No parking
+C
+2
+What should you do when you see a "Yield" sign?
+A. Stop immediately
+B. Accelerate to pass quickly
+C. Slow down and give priority
+D. Proceed without slowing down
+C
+2
+What is the speed limit in urban areas in Romania for cars?
+A. 50 km/h
+B. 60 km/h
+C. 40 km/h
+D. 70 km/h
+A
+2
+What does the traffic sign with a yellow circle and a black diagonal line mean?
+A. No parking for trucks
+B. Slippery road
+C. No bicycles allowed
+D No entry for vehicles with trailers
+B
+2
+What does the traffic sign with a yellow triangle and a right curve on the road mean?
+A. Dangerous curve to the left
+B. Dangerous curve to the right
+C. Roadwork ahead
+D. Pedestrian crossing
+B
+3
+What does the traffic sign with two horizontal lines and a circle in the middle mean?
+A. Road closed
+B. Priority road
+C. Mandatory stop
+D. No entry for vehicles with passengers
+C
+3
+What does the traffic light with both red and yellow lights on mean?
+A. Stop immediately
+B. Slow down and be alert
+C. Prepare for the light to change
+D. Continue without stopping
+B
+2
+What does the traffic sign with two continuous horizontal white lines mean?
+A. No overtaking
+B. Narrow road ahead
+C. Dangerous curve
+D. Speed limit
+A
+3
+How should you proceed when you want to make a U-turn on a public road?
+A. Make the turn without signaling
+B. Make the turn only if you signal and it is safe
+C. Make the turn only when there is no traffic
+D. Make the turn on roads with a continuous line
+B
+3
+What does the traffic sign with a blue circle and a vehicle in the middle mean?
+A. Parking allowed for all vehicles
+B. Parking only for cars
+C. Parking allowed only for electric vehicles
+D. Parking prohibited
+B
+2
+What is the minimum age to drive a moped in Romania?
+A. 16 years
+B. 14 years
+C. 18 years
+D. 17 years
+A
+1
+What should you do when you encounter a traffic light showing green?
+A. Stop
+B. Pass without slowing down
+C. Accelerate to pass quickly
+D. Pass at a normal speed
+D
+1
+What is the maximum speed limit for cars on public roads in Romania, except highways?
+A. 90 km/h
+B. 50 km/h
+C. 80 km/h
+D. 70 km/h
+A
+2
+What does the traffic sign with a yellow triangle and a van mean?
+A. No entry for trucks
+B. Roadwork ahead
+C. Hazard for heavy vehicles
+D. Pedestrian crossing
+A
+3
+What does the traffic sign with a green circle and an arrow on the road mean?
+A. Yield
+B. Priority to the right
+C. Entry allowed for electric vehicles
+D. No entry
+D
+3
+What is the speed limit for vehicles with a trailer on public roads in Romania?
+A. 90 km/h
+B. 70 km/h
+C. 80 km/h
+D. 100 km/h
+B
+2
+What does the traffic sign with two parallel horizontal lines and a dotted line between them mean?
+A. Dangerous curve
+B. Parking zone
+C. No stopping
+D. No overtaking
+C
+2
+What does the traffic sign with a yellow circle and an arrow pointing right mean?
+A. Dangerous curve to the left
+B. Dangerous curve to the right
+C. Stop
+D. The road is blocked
+B
+3
+What does the traffic sign with a red circle and a diagonal white line mean?
+A. No entry
+B. Safe zone
+C. Slippery road
+D. Priority
+A
+2
+What is the minimum age to obtain a freight transport vehicle driving license in Romania?
+A. 21 years
+B. 18 years
+C. 25 years
+D. 19 years
+A
+1
+What does the traffic sign with a red triangle and a person crossing mean?
+A. Pedestrian crossing
+B. Attention, children on the road
+C. Mandatory stop
+D. Dangerous zone for pedestrians
+A
+3
+What does the traffic sign with a yellow triangle and an exclamation point mean?
+A. Attention, road hazard
+B. Roadwork ahead
+C. No overtaking
+D. Danger of accidents
+A
+2
+What does the traffic sign with a yellow triangle and a horizontal white line mean?
+A. Dangerous curve
+B. Narrow road
+C. Pedestrian crossing
+D. Reduce speed
+B
+1
+What should you do when you encounter a red traffic light?
+A. Continue with moderate speed
+B. Slow down
+C. Stop
+D. Signal before passing
+C
+2
+What does the traffic sign with a green circle and an arrow pointing right mean?
+A. Road closed
+B. Access allowed on the right side
+C. Road closes on the right side
+D. Priority to the right
+B
+2
+What does the traffic sign with a white line and a yellow triangle mean?
+A. Pedestrian warning
+B. No entry for heavy vehicles
+C. Accident hazard
+D. Pedestrian crossing
+B
+2
+What is the speed limit on public roads outside of urban areas in Romania?
+A. 100 km/h
+B. 90 km/h
+C. 80 km/h
+D. 120 km/h
+B
+2
+What does the traffic sign with a continuous white line mean?
+A. No overtaking
+B. Narrow road
+C. Dangerous curve
+D. Speed limit
+A
+1
+What is the speed limit for heavy vehicles on public roads in Romania?
+A. 70 km/h
+B. 60 km/h
+C. 50 km/h
+D. 80 km/h
+A
+2
+What does the traffic sign with a yellow circle and a black diagonal line mean?
+A. No parking
+B. Dangerous curve
+C. Hazard zone
+D. Roadwork ahead
+D
+2
+What does the traffic sign with a red continuous line mean?
+A. No heavy vehicle access
+B. Roadwork ahead
+C. Pedestrian crossing
+D. No overtaking
+D
+2
+What does the traffic sign with a yellow triangle and an exclamation point indicate?
+A. Caution for pedestrians
+B. Slippery road
+C. Hazard zone
+D. Accident risk
+B
+2
+What is the maximum speed limit on highways for cars in Romania?
+A. 130 km/h
+B. 120 km/h
+C. 100 km/h
+D. 110 km/h
+A
+2
+What should you do when you encounter an intersection with a "Priority to the right" sign?
+A. Yield to vehicles coming from the left
+B. Yield to vehicles coming from the right
+C. Stop
+D. Continue without slowing down
+B
+2
+What is the speed limit on rural roads in Romania for light vehicles?
+A. 60 km/h
+B. 90 km/h
+C. 50 km/h
+D. 80 km/h
+B
+2
+What does the traffic sign with a red circle and a horizontal white line in the middle indicate?
+A. No entry
+B. Reduced speed
+C. Stop
+D. Parking zone
+A
+1
+What does the traffic sign with a blue circle and a bicycle mean?
+A. No bicycles allowed
+B. Bicycle lane
+C. Bicycles must use the sidewalk
+D. Bicycle parking zone
+B
+2
+What does the traffic sign with a yellow triangle and a truck inside mean?
+A. No entry for trucks
+B. Truck parking zone
+C. Caution for trucks
+D. Priority for trucks
+A
+2
+What does the traffic sign with a red triangle and a person walking mean?
+A. Pedestrian crossing
+B. School zone
+C. Hazard zone
+D. Road work ahead
+A
+1
+What does the traffic sign with a blue circle and a bus mean?
+A. Bus stop
+B. Bus lane
+C. Bus parking
+D. No entry for buses
+B
+2
+What should you do when you encounter a stop sign?
+A. Slow down
+B. Yield
+C. Stop completely
+D. Continue without stopping
+C
+2
+What does the traffic sign with a yellow diamond shape and a curve inside mean?
+A. Danger of curve
+B. Narrow road ahead
+C. Pedestrian crossing
+D. Stop
+A
+2
+What does the traffic sign with a curved arrow to the left mean?
+A. Right turn ahead
+B. U-turn ahead
+C. Left turn ahead
+D. Roadblock ahead
+C
