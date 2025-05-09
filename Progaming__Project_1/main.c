@@ -45,6 +45,7 @@ int num_players = 0;
 int num_questions = 0;
 int num_unfinished_games = 0;
 
+
 void clearInputBuffer() {
     int c;
     while ((c = getchar()) != '\n' && c != EOF);
@@ -254,30 +255,33 @@ void startUnfinishedGame(int gameIndex) {
         askQuestion(&questions[qIndex], &game->score);
 
         game->questionsAnswered++;
-        if (game->questionsAnswered == 10) {
-            printf("\nGame Over!\n");
-            HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
-            SetConsoleTextAttribute(hConsole, FOREGROUND_GREEN | FOREGROUND_INTENSITY);
-            printf("Your final score: %d\n", game->score);
-            SetConsoleTextAttribute(hConsole, 7);
-
-            strcpy(players[num_players].name, game->name);
-            players[num_players++].score = game->score;
-            saveLeaderboard();
-
-            for (int j = gameIndex; j < num_unfinished_games - 1; j++) {
-                unfinishedGames[j] = unfinishedGames[j + 1];
-            }
-            num_unfinished_games--;
-            saveUnfinishedGames();
-            break;
-        }
 
         if (game->questionsAnswered < 10) {
             saveUnfinishedGames();
         }
     }
+
+    if (game->questionsAnswered == 10) {
+        printf("\nGame Over!\n");
+        HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
+        SetConsoleTextAttribute(hConsole, FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+        printf("Your final score: %d\n", game->score);
+        SetConsoleTextAttribute(hConsole, 7);
+
+        strcpy(players[num_players].name, game->name);
+        players[num_players++].score = game->score;
+        saveLeaderboard();
+
+        for (int j = gameIndex; j < num_unfinished_games - 1; j++) {
+            unfinishedGames[j] = unfinishedGames[j + 1];
+        }
+        num_unfinished_games--;
+        saveUnfinishedGames();
+
+        waitForEnter();
+    }
 }
+
 
 
 void startNewGame() {
